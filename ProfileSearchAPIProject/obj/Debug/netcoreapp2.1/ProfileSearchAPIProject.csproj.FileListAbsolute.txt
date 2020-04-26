@@ -1,0 +1,17 @@
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\bin\Debug\netcoreapp2.1\Utilities.dll
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.csprojAssemblyReference.cache
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.RazorAssemblyInfo.cache
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.RazorAssemblyInfo.cs
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.AssemblyInfoInputs.cache
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.AssemblyInfo.cs
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.RazorTargetAssemblyInfo.cache
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\bin\Debug\netcoreapp2.1\ProfileSearchAPIProject.deps.json
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\bin\Debug\netcoreapp2.1\ProfileSearchAPIProject.runtimeconfig.json
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\bin\Debug\netcoreapp2.1\ProfileSearchAPIProject.runtimeconfig.dev.json
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\bin\Debug\netcoreapp2.1\ProfileSearchAPIProject.dll
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\bin\Debug\netcoreapp2.1\ProfileSearchAPIProject.pdb
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\bin\Debug\netcoreapp2.1\Utilities.pdb
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.csproj.CopyComplete
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.dll
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.pdb

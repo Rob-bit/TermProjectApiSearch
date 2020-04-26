@@ -1,0 +1,6 @@
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\Utilities\bin\Debug\Utilities.dll
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\Utilities\bin\Debug\Utilities.pdb
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\Utilities\obj\Debug\Utilities.dll
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\Utilities\obj\Debug\Utilities.pdb
