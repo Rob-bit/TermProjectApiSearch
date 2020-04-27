@@ -197,5 +197,25 @@ namespace Utilities
             return dsMembers;
         }
 
+        public DataSet GetPrByGender(string gender)
+        {
+            DataSet dsMembers = new DataSet();
+
+            myCommand.CommandType = System.Data.CommandType.StoredProcedure;
+            myCommand.CommandText = "GetPrByGender";
+
+            SqlParameter inputParamaterGender = new SqlParameter("@gender", gender);
+
+            inputParamaterGender.Direction = ParameterDirection.Input;
+            inputParamaterGender.SqlDbType = SqlDbType.VarChar;
+            inputParamaterGender.Size = 50;
+            myCommand.Parameters.Add(inputParamaterGender);
+
+            DBConnect objDB = new DBConnect();
+            dsMembers = objDB.GetDataSetUsingCmdObj(myCommand);
+
+            return dsMembers;
+        }
+
     }
 }

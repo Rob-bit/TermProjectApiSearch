@@ -15,3 +15,4 @@ C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\bin\
 C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.csproj.CopyComplete
 C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.dll
 C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\obj\Debug\netcoreapp2.1\ProfileSearchAPIProject.pdb
+C:\Users\rjps1\source\repos\ProfileSearchAPIProject\ProfileSearchAPIProject\bin\Debug\netcoreapp2.1\Utilities.dll.config
